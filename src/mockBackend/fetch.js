@@ -1,9 +1,3 @@
-// You don't need to look at this, but you can if you want!
-
-// This module exports fake data fetching functionality.
-// In a real app, this would grab data from the internet, but
-// this module just waits a little bit before responding.
-
 import DATA from "./data";
 
 export function get(endpoint) {
